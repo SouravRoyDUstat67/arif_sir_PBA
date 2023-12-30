@@ -1,0 +1,233 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      CODEBOOK
+
+
+                         GSS 1972-2021 Cumulative Datafile
+                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      GSS 1972-2021 Cumulative Datafile                                 Page i
+
+
+                                      CONTENTS
+
+
+      item                                                                page
+
+      age                age of respondent                                   1
+      sex                respondents sex                                     1
+      race               race of respondent                                  1
+      degree             r's highest degree                                  2
+      satjob             work satisfaction                                   2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   March 6, 2023
+
+
+
+      GSS 1972-2021 Cumulative Datafile                                 Page 1
+
+
+      age                age of respondent
+
+           13. Respondent's age
+
+           VALUE  LABEL
+              89  89 or older
+
+           Data type: numeric
+           Missing-data codes: .d,.i,.n
+           Record/columns: 1/1-2
+
+      ________________________________________________________________________
+
+      sex                respondents sex
+
+           23. Code respondent's sex
+
+           VALUE  LABEL
+               1  male
+               2  female
+
+           Data type: numeric
+           Missing-data codes: .i,.n,.s
+           Record/columns: 1/4-5
+
+      ________________________________________________________________________
+
+      race               race of respondent
+
+           24. What race do you consider yourself?
+
+           VALUE  LABEL
+               1  white
+               2  black
+               3  other
+
+           Data type: numeric
+           Missing-data code: .x
+           Record/columns: 1/7-8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   March 6, 2023
+
+
+
+      GSS 1972-2021 Cumulative Datafile                                 Page 2
+
+
+      degree             r's highest degree
+
+           19. If finished 9th-12th grade: Did you ever get a high school
+           diploma or a GED certificate?
+
+           VALUE  LABEL
+               0  less than high school
+               1  high school
+               2  associate/junior college
+               3  bachelor's
+               4  graduate
+
+           Data type: numeric
+           Missing-data codes: .a,.d,.s
+           Record/columns: 1/10-11
+
+      ________________________________________________________________________
+
+      satjob             work satisfaction
+
+           181. On the whole, how satisfied are you with the work you do?
+
+           VALUE  LABEL
+               1  very satisfied
+               2  moderately satisfied
+               3  a little dissatisfied
+               4  very dissatisfied
+
+           Data type: numeric
+           Missing-data codes: .d,.i,.n,.x
+           Record/columns: 1/13-14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   March 6, 2023
